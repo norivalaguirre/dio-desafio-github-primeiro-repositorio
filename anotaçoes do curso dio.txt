@@ -1,0 +1,18 @@
+# Git/Github
+
+git clone = cloonar codigo para seu pc 
+
+modificar ou acrescentar 
+
+git status = para ver se ha alteração e oque é necessario fazer 
+
+git add . = adicionar no git para ficar pronto para o commit 
+
+git commit = coimtar para deixar ok para o git empurrar para o github
+
+git commit -m = acrescentar comentario para marcação 
+
+sempre conferir com o git status 
+
+git push origin man = empurrar para o github para finalizar o up 
+
